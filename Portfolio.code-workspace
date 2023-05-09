@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Portfolio"
+		},
+		{
+			"path": "../metafrontend"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wtl"
+	}
+}
